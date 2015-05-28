@@ -1,5 +1,5 @@
 # pacman-odep
-Scritp that install optional dependencies of a pacman (or yaourt) package.
+Script that install optional dependencies of a pacman (or yaourt) package.
 
 INSTALL
 ```
